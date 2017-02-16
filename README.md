@@ -17,6 +17,6 @@ LIS 2360:  Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to declare variables in Javascript.
+2. How to convert strings to floats. 
+3. How to use ids and placeholders.
