@@ -11,8 +11,9 @@ Trista Reeves
 
 ### Project Description:
 This project uses javascript to create a functioning expense calculator.
+
 ### View Project:
-https://github.com/trista97/lesson4_javascript1
+https://trista97.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. How to declare variables.
