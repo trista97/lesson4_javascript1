@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-February 08, 2016
+February 8, 2017
 
 ### Student Name:  
 Trista Reeves
 
 ### Project Description:
-This project uses javascript to create a functional expense calculator.
-
+This project uses javascript to create a functioning expense calculator.
 ### View Project:
-Replace this statement with your Github Page URL that was created when you 
- published the project.
- 
+https://github.com/trista97/lesson4_javascript1
+
 ### Lessons Learned in the Assignment:
-1. How to declare variables in Javascript.
-2. How to convert strings to floats. 
-3. How to use ids and placeholders.
+1. How to declare variables.
+2. How to use floats and 
+3. How to use element ids.
