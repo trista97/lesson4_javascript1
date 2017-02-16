@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 08, 2016)
 
 ### Student Name:  
-(First and Last Name)
+(Trista Reeves)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project uses javascript to create a functional expense calculator.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
